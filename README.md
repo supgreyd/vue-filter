@@ -2,6 +2,8 @@
 
 Here you can filter products, filter is saved to localStorage
 
+project https://supgreyd.github.io/supfilter/.
+
 ## Project setup
 ```
 yarn install
