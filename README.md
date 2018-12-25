@@ -1,5 +1,7 @@
 # vue-filter
 
+Here you can filter products, filter is saved to localStorage
+
 ## Project setup
 ```
 yarn install
